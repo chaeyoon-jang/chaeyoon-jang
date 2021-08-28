@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-
-- 🔭 I’m currently working on nlp lab
+- 🔭 I’m currently working on natural language processing lab
 - 🌱 I’m currently learning ML/DL
 - 📫 How to reach me: contact instagram(@chaey.oon or email)
 - 😄 Pronouns: likes to try new things, positive and friendly
