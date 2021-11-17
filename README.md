@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sungkyunkwan University(SKKU) ,South Korea
+Sungkyunkwan University(SKKU)
 
 B.S., Computer Science Engineering, B.S., Statistics
 
