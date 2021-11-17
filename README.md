@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+B.S., Computer Science Engineering, B.S., Statistics
 
 - 🔭 I’m currently working on natural language processing lab
 - 🌱 I’m currently learning ML/DL
