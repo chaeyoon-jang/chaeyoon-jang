@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-SKKU, South Korea
+Sungkyunkwan University(SKKU) ,South Korea
+
 B.S., Computer Science Engineering, B.S., Statistics
 
 - 🔭 I’m currently working on natural language processing lab
