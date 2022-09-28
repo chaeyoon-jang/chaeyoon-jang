@@ -16,4 +16,4 @@ B.S., Statistics
 Others
 ======================
 President of the Society of Artificial Intelligence [TNT](https://skku-tnt.github.io/) (2021-01).   
-Undergraduate student of [Human Language Intelligence Lab](https://hli.skku.edu/) (2021-02~). 
+Undergraduate student of [Human Language Intelligence Lab](https://hli.skku.edu/) (2021-01~2022-01). 
