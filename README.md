@@ -5,7 +5,6 @@ Hello. I am ChaeYun Jang.:blush:
 I am a student at **Sungkyunkwan University(SKKU).**  
 My majors are **statistics and computer science engineering.**  
 And I'm interested in question generation, machine learning.  
-I would start my MS degree in the graduate school of AI at KAIST in 2023.
 
 Education
 ======================
