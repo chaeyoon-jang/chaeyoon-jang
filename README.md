@@ -12,8 +12,3 @@ SungKyunKwan University, South Korea.
 
 B.S., Computer Science Engineering  
 B.S., Statistics  
-
-Others
-======================
-President of the Society of Artificial Intelligence [TNT](https://skku-tnt.github.io/)   
-Undergraduate student of [Human Language Intelligence Lab](https://hli.skku.edu/) 
